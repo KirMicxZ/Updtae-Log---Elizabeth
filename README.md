@@ -1,4 +1,4 @@
-# Updtae-Log---Elizabeth
+# Update-Log---Elizabeth
 
 V 0.1 - 01 / 10 / 2025
 - Create bot with some pics , personality , background and scenario , long init message
