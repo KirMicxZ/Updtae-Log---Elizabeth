@@ -8,3 +8,7 @@ V 0.2 - 02 / 10 / 2025
 - add appearance to bot
 - shorter the inith message , longer the scenario on bio
 - add some more spicy pics
+
+V 0.3 - 04 / 10 / 2025 
+- personality fix
+- add instructions to guide bot
